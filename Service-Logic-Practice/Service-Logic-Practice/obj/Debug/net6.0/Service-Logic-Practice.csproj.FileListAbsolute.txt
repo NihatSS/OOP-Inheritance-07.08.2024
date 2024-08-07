@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Service-Logic-Practice\Service-Logic-Practice\bin\Debug\net6.0\Service-Logic-Practice.exe
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Service-Logic-Practice\Service-Logic-Practice\bin\Debug\net6.0\Service-Logic-Practice.deps.json
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Service-Logic-Practice\Service-Logic-Practice\bin\Debug\net6.0\Service-Logic-Practice.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Service-Logic-Practice\Service-Logic-Practice\bin\Debug\net6.0\Service-Logic-Practice.dll
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Service-Logic-Practice\Service-Logic-Practice\bin\Debug\net6.0\Service-Logic-Practice.pdb
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Service-Logic-Practice\Service-Logic-Practice\obj\Debug\net6.0\Service-Logic-Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Service-Logic-Practice\Service-Logic-Practice\obj\Debug\net6.0\Service-Logic-Practice.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Service-Logic-Practice\Service-Logic-Practice\obj\Debug\net6.0\Service-Logic-Practice.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Service-Logic-Practice\Service-Logic-Practice\obj\Debug\net6.0\Service-Logic-Practice.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Service-Logic-Practice\Service-Logic-Practice\obj\Debug\net6.0\Service-Logic-Practice.dll
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Service-Logic-Practice\Service-Logic-Practice\obj\Debug\net6.0\refint\Service-Logic-Practice.dll
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Service-Logic-Practice\Service-Logic-Practice\obj\Debug\net6.0\Service-Logic-Practice.pdb
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Service-Logic-Practice\Service-Logic-Practice\obj\Debug\net6.0\Service-Logic-Practice.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Service-Logic-Practice\Service-Logic-Practice\obj\Debug\net6.0\ref\Service-Logic-Practice.dll

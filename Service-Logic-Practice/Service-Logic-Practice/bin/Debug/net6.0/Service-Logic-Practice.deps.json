@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Service-Logic-Practice/1.0.0": {
+        "runtime": {
+          "Service-Logic-Practice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Service-Logic-Practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
